@@ -1,9 +1,9 @@
 {
   "configs": [
     {
-      "server": "fxxxthewall3.breakthewall.us",
-      "server_port": 27704,
-      "password": "Rmcyqf3RfID9PGS",
+      "server": "",
+      "server_port": 88888,
+      "password": "",
       "method": "rc4-md5",
       "remarks": "",
       "timeout": 5
